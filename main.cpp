@@ -15,6 +15,7 @@ int main()
     for (int i = 0 ; i < 10 ; ++i)
     {
         PushBack(&s1, i);
+        //추가한거 보낼거임
     }
    
 
